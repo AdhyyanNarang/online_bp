@@ -1,0 +1,6 @@
+# Ignore macOS system file
+utils/.DS_Store
+
+# Ignore Python compiled files
+utils/__pycache__/
+
